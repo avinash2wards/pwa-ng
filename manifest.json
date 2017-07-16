@@ -1,17 +1,17 @@
 {
   "name": "Sumne",
   "short_name": "Sumne",
-  "start_url": "pwa-ng",
+  "start_url": "/pwa-ng",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
     {
-      "src": "/android-chrome-192x192.png",
+      "src": "pwa-ng/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-384x384.png",
+      "src": "pwa-ng/android-chrome-384x384.png",
       "sizes": "384x384",
       "type": "image/png"
     }
