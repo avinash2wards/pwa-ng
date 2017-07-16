@@ -1,7 +1,7 @@
 {
   "name": "Sumne",
   "short_name": "Sumne",
-  "start_url": "/",
+  "start_url": "pwa-ng",
   "display": "standalone",
   "orientation": "portrait",
   "icons": [
